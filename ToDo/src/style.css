@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none !important;
+}
+
+.p-50 {
+  padding: 50px 300px;
+}
+
+.todo {
+  border: 8px solid #abcea1;
+  border-radius: 20px;
+}
+
+.bg-lightgreen {
+  background-color: #e2eede;
+}
+
+.card {
+  border-radius: 20px;
+  border: 3px solid #abcea1 !important;
+  background-color: #e2eede !important;
+}
